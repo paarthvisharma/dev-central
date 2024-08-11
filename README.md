@@ -1,9 +1,10 @@
 # Final Project for CS5500
 
 ## Application Portal 
-![](/Users/paarthvisharma/Desktop/Screenshot 2024-04-21 at 12.51.52 AM.png)
 
-![](/Users/paarthvisharma/Desktop/Screenshot 2024-04-21 at 12.52.08 AM.png)
+![Alt text](images/Image1.png)
+![Alt text](images/Image2.png)
+
 ## List of features
 
 All the features you have implemented.
@@ -56,5 +57,5 @@ All the features you have implemented.
 We have generated the Jest coverage report. To do so, change the directory to `/server` and run the command `npx jest -w=1 --coverage`. The tests are run sequentially because some tests fail due to port issues or race conditions.
 
 Sample report:
-![Alt text](image.png)
+![Alt text](images/image.png)
 
