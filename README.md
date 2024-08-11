@@ -1,9 +1,9 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/37vDen4S)
+# Final Project for CS5500
 
-# Final Team Project for CS5500
+## Application Portal 
+![](/Users/paarthvisharma/Desktop/Screenshot 2024-04-21 at 12.51.52 AM.png)
 
-Login with your Northeastern credentials and read the project description [here](https://northeastern-my.sharepoint.com/:w:/g/personal/j_mitra_northeastern_edu/ETUqq9jqZolOr0U4v-gexHkBbCTAoYgTx7cUc34ds2wrTA?e=URQpeI).
-
+![](/Users/paarthvisharma/Desktop/Screenshot 2024-04-21 at 12.52.08 AM.png)
 ## List of features
 
 All the features you have implemented.
@@ -58,4 +58,3 @@ We have generated the Jest coverage report. To do so, change the directory to `/
 Sample report:
 ![Alt text](image.png)
 
-## Extra Credit Section (if applicable)
