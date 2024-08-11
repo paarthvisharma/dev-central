@@ -1,0 +1,18 @@
+.btns {
+    margin-right: 15%;
+}
+
+.question_list:last-child {
+    border-bottom: #000000 1px dashed;
+}
+
+.resolved_button {
+    background-color: #3090e2;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 5px;
+    margin-bottom: 5px;
+    margin-left: 30px;
+}

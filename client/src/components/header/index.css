@@ -1,0 +1,33 @@
+.header {
+    position: relative; /* Establish a positioning context */
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Center all content horizontally */
+    height: 10%;
+    width: 100%;
+    background: #dddddd;
+}
+
+.title {
+    font-size: 32px;
+    font-weight: 800;
+    z-index: 1; /* Lower z-index so it's below the input if they overlap */
+    cursor: pointer;
+}
+
+.rightAlignedComp {
+    display: flex;
+    flex-direction: row;
+    position: absolute; /* Position independently */
+    right: 50px; /* Distance from the right edge of the header */
+    z-index: 2; /* Higher z-index to be on top */
+}
+
+.profileButton {
+    padding: 10px;
+    margin-left: 20px;
+    background-color: #3090e2;
+    color: white;
+    font-size: 20px;
+    border: black 1px solid;
+}

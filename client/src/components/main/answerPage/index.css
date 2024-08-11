@@ -1,0 +1,19 @@
+.answer_question_meta {
+    color: #bbbbbb;
+}
+
+.ansButton {
+    margin: 2% 0 2% 2%;
+}
+
+.delete_button {
+    background-color: #c70d0d;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 5px;
+    margin-bottom: 5px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
